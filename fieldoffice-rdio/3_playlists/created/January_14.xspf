@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>January '14</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p7733670</meta>
+  <meta rel="https://rdio.com/xspf/name">January '14</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/7733670/January_%2714/</meta>
+  <trackList>
+    <track>
+      <title>Grin</title>
+      <creator>Mint Royale</creator>
+      <album>Ring</album>
+      <trackNum>2</trackNum>
+      <duration>248000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAHT1327081</meta>
+    </track>
+    <track>
+      <title>Snowy Lava</title>
+      <creator>Ametsub</creator>
+      <album>The Nothings of The North</album>
+      <trackNum>4</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">JPJ930800018</meta>
+    </track>
+    <track>
+      <title>Luna</title>
+      <creator>Bombay Bicycle Club</creator>
+      <album>Luna</album>
+      <trackNum>1</trackNum>
+      <duration>191000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71307179</meta>
+    </track>
+    <track>
+      <title>After the Disco</title>
+      <creator>Broken Bells</creator>
+      <album>After the Disco</album>
+      <trackNum>1</trackNum>
+      <duration>219000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11306844</meta>
+    </track>
+    <track>
+      <title>Void</title>
+      <creator>Seekae</creator>
+      <album>The Sound of Trees Falling On People</album>
+      <trackNum>2</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUNC10803448</meta>
+    </track>
+    <track>
+      <title>Last Time (Jon Hopkins Remix)</title>
+      <creator>Moderat</creator>
+      <album>Last Time</album>
+      <trackNum>4</trackNum>
+      <duration>356000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEOE81410064</meta>
+    </track>
+    <track>
+      <title>Daylight Saving</title>
+      <creator>Boxcutter</creator>
+      <album>Gnosis EP</album>
+      <trackNum>3</trackNum>
+      <duration>244000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB32M1100028</meta>
+    </track>
+    <track>
+      <title>Hexon Bogon</title>
+      <creator>Mogwai</creator>
+      <album>Rave Tapes</album>
+      <trackNum>4</trackNum>
+      <duration>154000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBGDZ1400004,USSUB1307004</meta>
+    </track>
+    <track>
+      <title>You Burn</title>
+      <creator>I Break Horses</creator>
+      <album>Chiaroscuro</album>
+      <trackNum>1</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBRP1342801</meta>
+    </track>
+    <track>
+      <title>Love Is to Die</title>
+      <creator>Warpaint</creator>
+      <album>Warpaint</album>
+      <trackNum>3</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCVZ1303427</meta>
+    </track>
+    <track>
+      <title>Montana</title>
+      <creator>Tycho</creator>
+      <album>Montana</album>
+      <trackNum>1</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71400802</meta>
+    </track>
+    <track>
+      <title>In Love</title>
+      <creator>Grum</creator>
+      <album>In Love</album>
+      <trackNum>1</trackNum>
+      <duration>295000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBPQS1300118</meta>
+    </track>
+    <track>
+      <title>Let the Night</title>
+      <creator>Dirty Vegas</creator>
+      <album>Let the Night</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">IT00D1303607</meta>
+    </track>
+  </trackList>
+</playlist>

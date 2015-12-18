@@ -1,0 +1,36 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>August ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p13998629</meta>
+  <meta rel="https://rdio.com/xspf/name">August ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/13998629/August_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Voyages</title>
+      <creator>Dark Sky</creator>
+      <album>Voyages</album>
+      <trackNum>1</trackNum>
+      <duration>273000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEOE81410118</meta>
+    </track>
+    <track>
+      <title>Iceland</title>
+      <creator>Deru</creator>
+      <album>Iceland</album>
+      <trackNum>2</trackNum>
+      <duration>370000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ITHZ01308467</meta>
+    </track>
+    <track>
+      <title>Howl (Single)</title>
+      <creator>Rival Consoles</creator>
+      <album>Howl (Single)</album>
+      <trackNum>1</trackNum>
+      <duration>362000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWZD1507601</meta>
+    </track>
+  </trackList>
+</playlist>

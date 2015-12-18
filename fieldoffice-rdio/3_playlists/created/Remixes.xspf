@@ -1,0 +1,140 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Remixes</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p850230</meta>
+  <meta rel="https://rdio.com/xspf/name">Remixes</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/850230/Remixes/</meta>
+  <trackList>
+    <track>
+      <title>Shack up (Electronic Radio Edit)</title>
+      <creator>A Certain Ratio</creator>
+      <album>Looking For A Certain Ratio</album>
+      <trackNum>1</trackNum>
+      <duration>263000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBYHX0900125</meta>
+    </track>
+    <track>
+      <title>Here To Stay (Felix Da Housecat - Thee Extended Glitz Mix)</title>
+      <creator>New Order</creator>
+      <album>Best Remixes</album>
+      <trackNum>16</trackNum>
+      <duration>490000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAP0200117</meta>
+    </track>
+    <track>
+      <title>Witness (Walworth Rd. Rockers Dub)</title>
+      <creator>Zero 7</creator>
+      <album>Late Night Tales: Another Late Night - Zero 7 (Remastered)</album>
+      <trackNum>3</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB0101200</meta>
+    </track>
+    <track>
+      <title>Personal Jesus (The Stargate Mix)</title>
+      <creator>Depeche Mode</creator>
+      <album>Remixes 2: 81-11</album>
+      <trackNum>2</trackNum>
+      <duration>235000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJH1100003</meta>
+    </track>
+    <track>
+      <title>A Forest (Tree Mix)</title>
+      <creator>The Cure</creator>
+      <album>Mixed Up</album>
+      <trackNum>6</trackNum>
+      <duration>415000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBALB9000009</meta>
+    </track>
+    <track>
+      <title>Wide Open Space (Perfecto Mix)</title>
+      <creator>Mansun</creator>
+      <album>Legacy: The Best Of Mansun</album>
+      <trackNum>18</trackNum>
+      <duration>434000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9800717</meta>
+    </track>
+    <track>
+      <title>Aviary Mogwai Remix</title>
+      <creator>Mint Julep</creator>
+      <album>Aviary</album>
+      <trackNum>2</trackNum>
+      <duration>478000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100060</meta>
+    </track>
+    <track>
+      <title>Good Times (A Touch Of Jazz Mix)</title>
+      <creator>Chic</creator>
+      <album>The Very Best Of Chic</album>
+      <trackNum>5</trackNum>
+      <duration>495000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20109971</meta>
+    </track>
+    <track>
+      <title>The Road Goes On Forever (One Minute to Midnight Extended Mix)</title>
+      <creator>High Contrast</creator>
+      <album>The Road Goes On Forever</album>
+      <trackNum>1</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1205239</meta>
+    </track>
+    <track>
+      <title>That's Alright (Live from Maida Vale Session)</title>
+      <creator>Kindness</creator>
+      <album>That's Alright</album>
+      <trackNum>3</trackNum>
+      <duration>235000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM71204837</meta>
+    </track>
+    <track>
+      <title>We Come Running (RAC Mix)</title>
+      <creator>Youngblood Hawke</creator>
+      <album>We Come Running (Remixes)</album>
+      <trackNum>2</trackNum>
+      <duration>242000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71214827</meta>
+    </track>
+    <track>
+      <title>Little Talks (Passion Pit Remix)</title>
+      <creator>Of Monsters And Men</creator>
+      <album>Little Talks</album>
+      <trackNum>1</trackNum>
+      <duration>284000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71207822</meta>
+    </track>
+    <track>
+      <title>Brazil (Gold Panda Remix)</title>
+      <creator>Luke Abbott</creator>
+      <album>Brazil</album>
+      <trackNum>4</trackNum>
+      <duration>349000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUZD0803404</meta>
+    </track>
+    <track>
+      <title>Baltimore</title>
+      <creator>Bonobo</creator>
+      <album>Late Night Tales - Bonobo</album>
+      <trackNum>6</trackNum>
+      <duration>277000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM10024517</meta>
+    </track>
+    <track>
+      <title>Fireflies (Leo Zero Remix)</title>
+      <creator>Owl City</creator>
+      <album>Fireflies (International Remix Version)</album>
+      <trackNum>2</trackNum>
+      <duration>393000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM70919967</meta>
+    </track>
+    <track>
+      <title>Fresh Static Snow (Last Island Remix)</title>
+      <creator>Porter Robinson</creator>
+      <album>Worlds (Remixed)</album>
+      <trackNum>5</trackNum>
+      <duration>192000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUG11501113</meta>
+    </track>
+  </trackList>
+</playlist>

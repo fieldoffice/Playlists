@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>March ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p12920541</meta>
+  <meta rel="https://rdio.com/xspf/name">March ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/12920541/March_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Elliptic</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>2</trackNum>
+      <duration>528000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400102</meta>
+    </track>
+    <track>
+      <title>Curlews</title>
+      <creator>Grasscut</creator>
+      <album>Curlews</album>
+      <trackNum>1</trackNum>
+      <duration>348000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDRC1512201</meta>
+    </track>
+    <track>
+      <title>Let It Happen</title>
+      <creator>Tame Impala</creator>
+      <album>Let It Happen</album>
+      <trackNum>1</trackNum>
+      <duration>469000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM71500292</meta>
+    </track>
+    <track>
+      <title>Stor Eiglass</title>
+      <creator>Squarepusher</creator>
+      <album>Stor Eiglass</album>
+      <trackNum>1</trackNum>
+      <duration>272000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500014</meta>
+    </track>
+    <track>
+      <title>Afterglow</title>
+      <creator>Fraems</creator>
+      <album>Atlas</album>
+      <trackNum>4</trackNum>
+      <duration>203000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBFBC1501254</meta>
+    </track>
+    <track>
+      <title>Pittsburgh</title>
+      <creator>William Fitzsimmons</creator>
+      <album>Pittsburgh</album>
+      <trackNum>1</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBLAZ1500535</meta>
+    </track>
+    <track>
+      <title>Charge</title>
+      <creator>Cid Rim</creator>
+      <album>Charge / Kano</album>
+      <trackNum>1</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ATAB51500085</meta>
+    </track>
+    <track>
+      <title>Lease Of Life</title>
+      <creator>Errors</creator>
+      <album>Lease Of Life</album>
+      <trackNum>2</trackNum>
+      <duration>441000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBGDZ1500002</meta>
+    </track>
+    <track>
+      <title>New Air</title>
+      <creator>Outfit</creator>
+      <album>New Air</album>
+      <trackNum>1</trackNum>
+      <duration>312000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCSG1500065,GBCSG1500049</meta>
+    </track>
+    <track>
+      <title>Facety 2:11 (prod. Four Tet)</title>
+      <creator>Roots Manuva</creator>
+      <album>Facety 2:11 (prod. Four Tet)</album>
+      <trackNum>1</trackNum>
+      <duration>163000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1500200</meta>
+    </track>
+  </trackList>
+</playlist>

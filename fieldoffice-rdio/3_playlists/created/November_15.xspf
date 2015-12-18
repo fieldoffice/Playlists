@@ -1,0 +1,44 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>November ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p15205986</meta>
+  <meta rel="https://rdio.com/xspf/name">November ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/15205986/November_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Privacy</title>
+      <creator>Charles Murdoch</creator>
+      <album>Privacy</album>
+      <trackNum>1</trackNum>
+      <duration>341000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01500761</meta>
+    </track>
+    <track>
+      <title>Petals</title>
+      <creator>Bibio</creator>
+      <album>Petals</album>
+      <trackNum>1</trackNum>
+      <duration>156000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500233</meta>
+    </track>
+    <track>
+      <title>Numbers</title>
+      <creator>Daughter</creator>
+      <album>Numbers</album>
+      <trackNum>1</trackNum>
+      <duration>257000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL1500135</meta>
+    </track>
+    <track>
+      <title>Moonraker</title>
+      <creator>Chrome Sparks</creator>
+      <album>Parallelism</album>
+      <trackNum>1</trackNum>
+      <duration>364000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01500711</meta>
+    </track>
+  </trackList>
+</playlist>

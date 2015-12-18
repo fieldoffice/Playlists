@@ -1,0 +1,188 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>March '13</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p2501810</meta>
+  <meta rel="https://rdio.com/xspf/name">March '13</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/2501810/March_%2713/</meta>
+  <trackList>
+    <track>
+      <title>Continuum</title>
+      <creator>Lemaitre</creator>
+      <album>Relativity 3</album>
+      <trackNum>1</trackNum>
+      <duration>287000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V81546777,NOAAC1300001</meta>
+    </track>
+    <track>
+      <title>Excave</title>
+      <creator>Benoît Pioulard</creator>
+      <album>Hymnal</album>
+      <trackNum>5</trackNum>
+      <duration>236000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USNCB1317805</meta>
+    </track>
+    <track>
+      <title>Dream Beat (Cole MGN Dreamix)</title>
+      <creator>Peaking Lights</creator>
+      <album>Lucifer Re-Lit</album>
+      <trackNum>2</trackNum>
+      <duration>385000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1200421</meta>
+    </track>
+    <track>
+      <title>Skylarking</title>
+      <creator>BT</creator>
+      <album>Skylarking</album>
+      <trackNum>2</trackNum>
+      <duration>206000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">NLF711302115</meta>
+    </track>
+    <track>
+      <title>Angel Integer</title>
+      <creator>Squarepusher</creator>
+      <album>Enstrobia</album>
+      <trackNum>1</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1200097</meta>
+    </track>
+    <track>
+      <title>You're on Fire</title>
+      <creator>They Might Be Giants</creator>
+      <album>Nanobots</album>
+      <trackNum>1</trackNum>
+      <duration>161000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHMW1300001</meta>
+    </track>
+    <track>
+      <title>SW9</title>
+      <creator>Fort Romeau</creator>
+      <album>SW9</album>
+      <trackNum>1</trackNum>
+      <duration>319000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71311201</meta>
+    </track>
+    <track>
+      <title>Levitate (Koven Remix)</title>
+      <creator>Hadouken!</creator>
+      <album>Levitate EP</album>
+      <trackNum>4</trackNum>
+      <duration>301000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB2ME1200764</meta>
+    </track>
+    <track>
+      <title>Telemiscommunications</title>
+      <creator>deadmau5</creator>
+      <album>Telemiscommunications</album>
+      <trackNum>1</trackNum>
+      <duration>247000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBTDG1200493</meta>
+    </track>
+    <track>
+      <title>Warm Shadow (Sideshow Dub Shadow Version)</title>
+      <creator>Fink</creator>
+      <album>Warm Shadow</album>
+      <trackNum>3</trackNum>
+      <duration>357000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1301702</meta>
+    </track>
+    <track>
+      <title>Bleep Four</title>
+      <creator>The Black Dog</creator>
+      <album>The Return Ov Bleep</album>
+      <trackNum>1</trackNum>
+      <duration>382000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBKDD1300269</meta>
+    </track>
+    <track>
+      <title>Ernest Borgnine</title>
+      <creator>John Grant</creator>
+      <album>Pale Green Ghosts</album>
+      <trackNum>9</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBQU1300009,GBBRP1337709</meta>
+    </track>
+    <track>
+      <title>The Wolves (Act I and II)</title>
+      <creator>Mike Patton</creator>
+      <album>The Place Beyond the Pines (Derek Cianfrance's Original Motion Picture Soundtrack)</album>
+      <trackNum>17</trackNum>
+      <duration>322000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38Y0811504</meta>
+    </track>
+    <track>
+      <title>Returning</title>
+      <creator>Black Rebel Motorcycle Club</creator>
+      <album>Specter At The Feast</album>
+      <trackNum>3</trackNum>
+      <duration>334000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR91379303</meta>
+    </track>
+    <track>
+      <title>Song For Zula</title>
+      <creator>Phosphorescent</creator>
+      <album>Muchacho</album>
+      <trackNum>2</trackNum>
+      <duration>370000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJ5G1305002</meta>
+    </track>
+    <track>
+      <title>Winter</title>
+      <creator>Daughter</creator>
+      <album>If You Leave</album>
+      <trackNum>1</trackNum>
+      <duration>282000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAFL1200313,USYAH1300027</meta>
+    </track>
+    <track>
+      <title>Fire!</title>
+      <creator>Steve Mason</creator>
+      <album>Monkey Minds in the Devil's Time</album>
+      <trackNum>16</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1200517</meta>
+    </track>
+    <track>
+      <title>Big Thinks Do Remarkable</title>
+      <creator>And So I Watch You from Afar</creator>
+      <album>All Hail Bright Futures (Bonus Track Version)</album>
+      <trackNum>2</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2P1283939</meta>
+    </track>
+    <track>
+      <title>Wanderlust (Old Apparatus remix)</title>
+      <creator>Cloud Boat</creator>
+      <album>Wanderlust/Dréan</album>
+      <trackNum>3</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BEZ351300058</meta>
+    </track>
+    <track>
+      <title>Leaf Stricken</title>
+      <creator>Haiku Salut</creator>
+      <album>Tricolore</album>
+      <trackNum>3</trackNum>
+      <duration>146000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHLW1310482</meta>
+    </track>
+    <track>
+      <title>You'll Forget Me Again</title>
+      <creator>Ritmo</creator>
+      <album>Mistakes</album>
+      <trackNum>7</trackNum>
+      <duration>180000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABM1390803</meta>
+    </track>
+    <track>
+      <title>Pilgrim</title>
+      <creator>MØ</creator>
+      <album>Pilgrim</album>
+      <trackNum>1</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBGCA1300051,DKADG1300179</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>April '13</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p2741673</meta>
+  <meta rel="https://rdio.com/xspf/name">April '13</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/2741673/April_%2713/</meta>
+  <trackList>
+    <track>
+      <title>Tap Out</title>
+      <creator>The Strokes</creator>
+      <album>Comedown Machine</album>
+      <trackNum>1</trackNum>
+      <duration>222000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11300075</meta>
+    </track>
+    <track>
+      <title>Distant Shores</title>
+      <creator>METRIK</creator>
+      <album>Metrik EP</album>
+      <trackNum>4</trackNum>
+      <duration>324000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1300064</meta>
+    </track>
+    <track>
+      <title>Cruel Intentions</title>
+      <creator>Simian Mobile Disco</creator>
+      <album>Live</album>
+      <trackNum>12</trackNum>
+      <duration>193000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVHV0800357</meta>
+    </track>
+    <track>
+      <title>Brazil</title>
+      <creator>Gold Panda</creator>
+      <album>Brazil</album>
+      <trackNum>1</trackNum>
+      <duration>346000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71308203</meta>
+    </track>
+    <track>
+      <title>Convergent (Mazoulew Remix)</title>
+      <creator>Scrimshire</creator>
+      <album>Convergent</album>
+      <trackNum>4</trackNum>
+      <duration>211000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBLQT1300026</meta>
+    </track>
+    <track>
+      <title>Abraxical Solapse</title>
+      <creator>The Physics House Band</creator>
+      <album>Horizons / Rapture</album>
+      <trackNum>2</trackNum>
+      <duration>259000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBYLR1302402</meta>
+    </track>
+    <track>
+      <title>Phosphorescence (Emperor Yes Remix)</title>
+      <creator>Tall Ships</creator>
+      <album>Phosphorescence</album>
+      <trackNum>2</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V81694494</meta>
+    </track>
+    <track>
+      <title>Bitter End</title>
+      <creator>Ghosts of Paraguay</creator>
+      <album>Into the Light</album>
+      <trackNum>2</trackNum>
+      <duration>309000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUKP31300107,AUKP31200116</meta>
+    </track>
+    <track>
+      <title>The Way</title>
+      <creator>Emancipator</creator>
+      <album>Dusk to Dawn</album>
+      <trackNum>6</trackNum>
+      <duration>290000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABL1389464,DEQ121318488</meta>
+    </track>
+    <track>
+      <title>You &amp; I</title>
+      <creator>Crystal Fighters</creator>
+      <album>You &amp; I</album>
+      <trackNum>1</trackNum>
+      <duration>210000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBE7C1300103</meta>
+    </track>
+    <track>
+      <title>Open Eye Signal</title>
+      <creator>Jon Hopkins</creator>
+      <album>Open Eye Signal</album>
+      <trackNum>1</trackNum>
+      <duration>468000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1300084</meta>
+    </track>
+    <track>
+      <title>Station (Meet Me At The)</title>
+      <creator>!!!</creator>
+      <album>Thr!!!er</album>
+      <trackNum>9</trackNum>
+      <duration>231000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1200320</meta>
+    </track>
+    <track>
+      <title>Ísjaki</title>
+      <creator>Sigur Rós</creator>
+      <album>Ísjaki</album>
+      <trackNum>1</trackNum>
+      <duration>303000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBKEE1300286</meta>
+    </track>
+  </trackList>
+</playlist>

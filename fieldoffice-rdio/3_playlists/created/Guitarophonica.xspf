@@ -1,0 +1,116 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Guitarophonica</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p860132</meta>
+  <meta rel="https://rdio.com/xspf/name">Guitarophonica</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/860132/Guitarophonica/</meta>
+  <trackList>
+    <track>
+      <title>Baby Milk Snatcher</title>
+      <creator>A.R. Kane</creator>
+      <album>Sixty Nine</album>
+      <trackNum>3</trackNum>
+      <duration>196000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBTF0400098</meta>
+    </track>
+    <track>
+      <title>Dark Rain Falling</title>
+      <creator>Flyte Reaction</creator>
+      <album>Sensilla</album>
+      <trackNum>10</trackNum>
+      <duration>865000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US33R0110074</meta>
+    </track>
+    <track>
+      <title>Recovery Position</title>
+      <creator>Piano Magic</creator>
+      <album>Ovations</album>
+      <trackNum>6</trackNum>
+      <duration>261000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR2X41457005,USA4D0922706</meta>
+    </track>
+    <track>
+      <title>Sweet Memory</title>
+      <creator>Pivot</creator>
+      <album>O Soundtrack My Heart</album>
+      <trackNum>6</trackNum>
+      <duration>347000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW0700256</meta>
+    </track>
+    <track>
+      <title>Make Me</title>
+      <creator>Fang Island</creator>
+      <album>Major</album>
+      <trackNum>4</trackNum>
+      <duration>349000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQY51285432</meta>
+    </track>
+    <track>
+      <title>When You Sing</title>
+      <creator>School Of Seven Bells</creator>
+      <album>Ghostory</album>
+      <trackNum>9</trackNum>
+      <duration>514000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVR91170709</meta>
+    </track>
+    <track>
+      <title>Every Day (2005 Digital Remaster)</title>
+      <creator>Steve Hackett</creator>
+      <album>Spectral Mornings ((Bonus Edition) [Remastered])</album>
+      <trackNum>1</trackNum>
+      <duration>375000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0500578</meta>
+    </track>
+    <track>
+      <title>Felicitacion</title>
+      <creator>Dub Trio</creator>
+      <album>Another Sound Is Dying</album>
+      <trackNum>4</trackNum>
+      <duration>273000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA560735131</meta>
+    </track>
+    <track>
+      <title>Further In</title>
+      <creator>Caspian</creator>
+      <album>You Are The Conductor</album>
+      <trackNum>3</trackNum>
+      <duration>170000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USTCB0968222</meta>
+    </track>
+    <track>
+      <title>Plate Tectonics</title>
+      <creator>Tall Ships</creator>
+      <album>Plate Tectonics</album>
+      <trackNum>1</trackNum>
+      <duration>294000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBQJH1110503</meta>
+    </track>
+    <track>
+      <title>The Sound Of Muzak</title>
+      <creator>Porcupine Tree</creator>
+      <album>In Absentia</album>
+      <trackNum>4</trackNum>
+      <duration>302000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT20201868</meta>
+    </track>
+    <track>
+      <title>Big Sur Moon</title>
+      <creator>Buckethead</creator>
+      <album>Colma</album>
+      <trackNum>5</trackNum>
+      <duration>71000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHOM9801012</meta>
+    </track>
+    <track>
+      <title>Soothsayer (dedicated to Aunt Suzie)</title>
+      <creator>Buckethead</creator>
+      <album>Crime Slunk Scene</album>
+      <trackNum>6</trackNum>
+      <duration>544000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USTC80986039</meta>
+    </track>
+  </trackList>
+</playlist>

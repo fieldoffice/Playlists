@@ -1,0 +1,268 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Music for Astronauts</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p12793219</meta>
+  <meta rel="https://rdio.com/xspf/name">Music for Astronauts</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/12793219/Music_for_Astronauts/</meta>
+  <trackList>
+    <track>
+      <title>Voyager 1</title>
+      <creator>Black Rivers</creator>
+      <album>Black Rivers</album>
+      <trackNum>5</trackNum>
+      <duration>301000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBGB1400017</meta>
+    </track>
+    <track>
+      <title>Gagarin</title>
+      <creator>Public Service Broadcasting</creator>
+      <album>Gagarin</album>
+      <trackNum>1</trackNum>
+      <duration>226000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSZF1400168</meta>
+    </track>
+    <track>
+      <title>Life On Mars?</title>
+      <creator>David Bowie</creator>
+      <album>Hunky Dory (1999 Remaster)</album>
+      <trackNum>4</trackNum>
+      <duration>223000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJT19900030</meta>
+    </track>
+    <track>
+      <title>Space Oddity</title>
+      <creator>David Bowie</creator>
+      <album>Space Oddity</album>
+      <trackNum>1</trackNum>
+      <duration>316000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJT19900001</meta>
+    </track>
+    <track>
+      <title>Spaceships &amp; Woodgrain</title>
+      <creator>Stalley</creator>
+      <album>Honest Cowboy</album>
+      <trackNum>1</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAT21303031</meta>
+    </track>
+    <track>
+      <title>Girl From Mars</title>
+      <creator>Ash</creator>
+      <album>Intergalactic Sonic Sevens</album>
+      <trackNum>3</trackNum>
+      <duration>209000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBUG9600403</meta>
+    </track>
+    <track>
+      <title>Subterranean Homesick Alien</title>
+      <creator>Radiohead</creator>
+      <album>OK Computer</album>
+      <trackNum>3</trackNum>
+      <duration>267000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9701377</meta>
+    </track>
+    <track>
+      <title>Spacelab (2009 Remastered Version)</title>
+      <creator>Kraftwerk</creator>
+      <album>The Man Machine (2009 Remastered Version)</album>
+      <trackNum>2</trackNum>
+      <duration>357000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEC610900215</meta>
+    </track>
+    <track>
+      <title>Valentina</title>
+      <creator>Komputer</creator>
+      <album>The World Of Tomorrow</album>
+      <trackNum>4</trackNum>
+      <duration>293000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJH9700299</meta>
+    </track>
+    <track>
+      <title>Space Travel Is Boring</title>
+      <creator>Modest Mouse</creator>
+      <album>This Is a Long Drive for Someone with Nothing to Think About</album>
+      <trackNum>16</trackNum>
+      <duration>114000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US68F0502716,USFP71444516</meta>
+    </track>
+    <track>
+      <title>Man On The Moon</title>
+      <creator>R.E.M.</creator>
+      <album>Automatic For The People</album>
+      <trackNum>10</trackNum>
+      <duration>314000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB19901554</meta>
+    </track>
+    <track>
+      <title>A Space Boy Dream</title>
+      <creator>Belle and Sebastian</creator>
+      <album>The Boy With the Arab Strap</album>
+      <trackNum>7</trackNum>
+      <duration>181000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCAX9801007</meta>
+    </track>
+    <track>
+      <title>Wandering Star</title>
+      <creator>Bomb The Bass</creator>
+      <album>Wandering Star EP</album>
+      <trackNum>1</trackNum>
+      <duration>310000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUR41200017</meta>
+    </track>
+    <track>
+      <title>Wandering Star</title>
+      <creator>Portishead</creator>
+      <album>Dummy</album>
+      <trackNum>5</trackNum>
+      <duration>292000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAQT9400063</meta>
+    </track>
+    <track>
+      <title>2000 Light Years From Home</title>
+      <creator>The Rolling Stones</creator>
+      <album>Their Satanic Majesties Request</album>
+      <trackNum>9</trackNum>
+      <duration>285000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA176710260</meta>
+    </track>
+    <track>
+      <title>Walking On The Moon (2003 Stereo Remastered Version)</title>
+      <creator>The Police</creator>
+      <album>Reggatta De Blanc (Remastered)</album>
+      <trackNum>6</trackNum>
+      <duration>301000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAM0201175</meta>
+    </track>
+    <track>
+      <title>Space Bound</title>
+      <creator>Eminem</creator>
+      <album>Recovery</album>
+      <trackNum>10</trackNum>
+      <duration>278000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71015444,USUM71015395</meta>
+    </track>
+    <track>
+      <title>Space Truckin' (1997 - Remaster)</title>
+      <creator>Deep Purple</creator>
+      <album>Machine Head - 25th Anniversary Edition</album>
+      <trackNum>15</trackNum>
+      <duration>274000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDXG0600157</meta>
+    </track>
+    <track>
+      <title>Black Star</title>
+      <creator>Radiohead</creator>
+      <album>The Bends (Collectors Edition)</album>
+      <trackNum>10</trackNum>
+      <duration>247000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAYE9400063</meta>
+    </track>
+    <track>
+      <title>I Took a Trip on a Gemini Spaceship</title>
+      <creator>David Bowie</creator>
+      <album>Heathen</album>
+      <trackNum>8</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRF30200008</meta>
+    </track>
+    <track>
+      <title>Space Monkey</title>
+      <creator>Patti Smith</creator>
+      <album>Easter</album>
+      <trackNum>2</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAR17800138</meta>
+    </track>
+    <track>
+      <title>Supermassive Black Hole</title>
+      <creator>Muse</creator>
+      <album>Black Holes And Revelations (Updated 09 version)</album>
+      <trackNum>3</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAHT0500593</meta>
+    </track>
+    <track>
+      <title>Black Hole Sun</title>
+      <creator>Soundgarden</creator>
+      <album>Telephantasm</album>
+      <trackNum>8</trackNum>
+      <duration>317000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USAM19400007</meta>
+    </track>
+    <track>
+      <title>Spaceship Coupe</title>
+      <creator>Justin Timberlake</creator>
+      <album>The 20/20 Experience</album>
+      <trackNum>6</trackNum>
+      <duration>437000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRC11300064</meta>
+    </track>
+    <track>
+      <title>The Space Race Is Over</title>
+      <creator>Billy Bragg</creator>
+      <album>William Bloke</album>
+      <trackNum>7</trackNum>
+      <duration>266000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEJ0599457</meta>
+    </track>
+    <track>
+      <title>I Wish I Was the Moon</title>
+      <creator>Neko Case</creator>
+      <album>Blacklisted</album>
+      <trackNum>11</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA360309911</meta>
+    </track>
+    <track>
+      <title>Fly Me To The Moon (In Other Words)</title>
+      <creator>Bobby Womack</creator>
+      <album>The Best Of Bobby Womack - The Soul Years</album>
+      <trackNum>11</trackNum>
+      <duration>125000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEM39200390</meta>
+    </track>
+    <track>
+      <title>Space Junk</title>
+      <creator>Devo</creator>
+      <album>Q: Are We Not Men? A: We Are Devo / Devo Live</album>
+      <trackNum>4</trackNum>
+      <duration>134000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA7800333</meta>
+    </track>
+    <track>
+      <title>Looking For Astronauts</title>
+      <creator>The National</creator>
+      <album>Alligator</album>
+      <trackNum>4</trackNum>
+      <duration>203000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAZP0400134</meta>
+    </track>
+    <track>
+      <title>We Are All Made of Stars</title>
+      <creator>Moby</creator>
+      <album>18</album>
+      <trackNum>1</trackNum>
+      <duration>273000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USVT10200009,GBAJH0200043</meta>
+    </track>
+    <track>
+      <title>Telstar</title>
+      <creator>Bill Frisell</creator>
+      <album>Guitar in the Space Age</album>
+      <trackNum>14</trackNum>
+      <duration>195000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USQX91400718</meta>
+    </track>
+    <track>
+      <title>Space Station #5</title>
+      <creator>Montrose</creator>
+      <album>Montrose</album>
+      <trackNum>3</trackNum>
+      <duration>315000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USWB10902596</meta>
+    </track>
+  </trackList>
+</playlist>

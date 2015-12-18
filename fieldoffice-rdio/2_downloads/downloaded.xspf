@@ -1,0 +1,542 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Downloaded tracks for Andy Field</title>
+  <creator>Andy Field</creator>
+  <meta rel="https://rdio.com/xspf/length">66</meta>
+  <meta rel="https://rdio.com/xspf/name">Downloaded tracks for Andy Field</meta>
+  <meta rel="https://rdio.com/xspf/owner">Andy Field</meta>
+  <meta rel="https://rdio.com/xspf/ownerKey">s1810259</meta>
+  <meta rel="https://rdio.com/xspf/ownerUrl">/people/fieldoffice/</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">2_downloads</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">None</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/s1810259/downloaded/</meta>
+  <trackList>
+    <track>
+      <title>My Delirium</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>17</trackNum>
+      <duration>281000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM70900108</meta>
+    </track>
+    <track>
+      <title>Magic</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>1</trackNum>
+      <duration>207000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70808708</meta>
+    </track>
+    <track>
+      <title>Manipulating Woman</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>215000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810780</meta>
+    </track>
+    <track>
+      <title>My Delirium</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>3</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70808705</meta>
+    </track>
+    <track>
+      <title>Better Than Sunday</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>4</trackNum>
+      <duration>205000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810804</meta>
+    </track>
+    <track>
+      <title>Another Runaway</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>5</trackNum>
+      <duration>196000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810795</meta>
+    </track>
+    <track>
+      <title>Love Don't Live Here</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>6</trackNum>
+      <duration>243000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810805</meta>
+    </track>
+    <track>
+      <title>Back Of The Van</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>7</trackNum>
+      <duration>220000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM70800167</meta>
+    </track>
+    <track>
+      <title>Paris Is Burning</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>8</trackNum>
+      <duration>228000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70808467</meta>
+    </track>
+    <track>
+      <title>Professional Suicide</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>9</trackNum>
+      <duration>223000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810807</meta>
+    </track>
+    <track>
+      <title>Dusk Till Dawn</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>10</trackNum>
+      <duration>156000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70811315</meta>
+    </track>
+    <track>
+      <title>Crazy World</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>11</trackNum>
+      <duration>214000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810809</meta>
+    </track>
+    <track>
+      <title>Morning Dreams</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>12</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70810814</meta>
+    </track>
+    <track>
+      <title>Oh My</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>13</trackNum>
+      <duration>205000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70811298</meta>
+    </track>
+    <track>
+      <title>Danny &amp; Jenny</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>14</trackNum>
+      <duration>212000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70809835</meta>
+    </track>
+    <track>
+      <title>Paris Is Burning</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>15</trackNum>
+      <duration>250000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM70900106</meta>
+    </track>
+    <track>
+      <title>Dusk Till Dawn</title>
+      <creator>Ladyhawke</creator>
+      <album>Ladyhawke (Deluxe Edition)</album>
+      <trackNum>16</trackNum>
+      <duration>163000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM70900107</meta>
+    </track>
+    <track>
+      <title>Permanence</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>9</trackNum>
+      <duration>268000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468409</meta>
+    </track>
+    <track>
+      <title>In Amber</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>2</trackNum>
+      <duration>346000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468402</meta>
+    </track>
+    <track>
+      <title>...</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>1</trackNum>
+      <duration>54000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468401</meta>
+    </track>
+    <track>
+      <title>Volga</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>11</trackNum>
+      <duration>393000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468411</meta>
+    </track>
+    <track>
+      <title>In the Blind</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>10</trackNum>
+      <duration>332000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468410</meta>
+    </track>
+    <track>
+      <title>Asiatic</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>7</trackNum>
+      <duration>257000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468407</meta>
+    </track>
+    <track>
+      <title>Waking Life</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>8</trackNum>
+      <duration>357000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468408</meta>
+    </track>
+    <track>
+      <title>Sanctuary</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>6</trackNum>
+      <duration>224000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468406</meta>
+    </track>
+    <track>
+      <title>All Things Transient</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>5</trackNum>
+      <duration>254000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468405</meta>
+    </track>
+    <track>
+      <title>Fair Youth</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>4</trackNum>
+      <duration>263000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468404</meta>
+    </track>
+    <track>
+      <title>You And Me And Everything In Between</title>
+      <creator>Maybeshewill</creator>
+      <album>Fair Youth</album>
+      <trackNum>3</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDHC1468403</meta>
+    </track>
+    <track>
+      <title>Happy Song</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>2</trackNum>
+      <duration>238000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500769</meta>
+    </track>
+    <track>
+      <title>Throne</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>3</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500770</meta>
+    </track>
+    <track>
+      <title>Follow You</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>5</trackNum>
+      <duration>231000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500772</meta>
+    </track>
+    <track>
+      <title>What You Need</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>6</trackNum>
+      <duration>251000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500773</meta>
+    </track>
+    <track>
+      <title>Avalanche</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>7</trackNum>
+      <duration>262000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500774</meta>
+    </track>
+    <track>
+      <title>Run</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>8</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500775</meta>
+    </track>
+    <track>
+      <title>Drown (New)</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>9</trackNum>
+      <duration>222000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500797</meta>
+    </track>
+    <track>
+      <title>Blasphemy</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>10</trackNum>
+      <duration>275000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500776</meta>
+    </track>
+    <track>
+      <title>Doomed</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>1</trackNum>
+      <duration>274000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500768</meta>
+    </track>
+    <track>
+      <title>True Friends</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>4</trackNum>
+      <duration>232000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500771</meta>
+    </track>
+    <track>
+      <title>Oh No</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>That's The Spirit</album>
+      <trackNum>11</trackNum>
+      <duration>300000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500777</meta>
+    </track>
+    <track>
+      <title>Scale and Ratio</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>5</trackNum>
+      <duration>299000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100201</meta>
+    </track>
+    <track>
+      <title>Diversion 1</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>4</trackNum>
+      <duration>132000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100200</meta>
+    </track>
+    <track>
+      <title>Last Known Position</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>3</trackNum>
+      <duration>265000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100199</meta>
+    </track>
+    <track>
+      <title>Site and Situation</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>1</trackNum>
+      <duration>271000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100197</meta>
+    </track>
+    <track>
+      <title>Block Boundaries</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>2</trackNum>
+      <duration>312000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100198</meta>
+    </track>
+    <track>
+      <title>End Of The Line</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>10</trackNum>
+      <duration>216000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100206</meta>
+    </track>
+    <track>
+      <title>Animated Landscape</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>9</trackNum>
+      <duration>312000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100205</meta>
+    </track>
+    <track>
+      <title>Remote Outliers</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>8</trackNum>
+      <duration>255000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100204</meta>
+    </track>
+    <track>
+      <title>Liminal Space</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>6</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100202</meta>
+    </track>
+    <track>
+      <title>Diversion 2</title>
+      <creator>Ryan Teague</creator>
+      <album>Block Boundaries</album>
+      <trackNum>7</trackNum>
+      <duration>135000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB7FT1100203</meta>
+    </track>
+    <track>
+      <title>Agneya</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>1</trackNum>
+      <duration>298000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590692</meta>
+    </track>
+    <track>
+      <title>Vetus Memoria</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>3</trackNum>
+      <duration>320000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590695</meta>
+    </track>
+    <track>
+      <title>Finem Solis</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>4</trackNum>
+      <duration>303000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590696</meta>
+    </track>
+    <track>
+      <title>Centralia</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>7</trackNum>
+      <duration>407000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590701</meta>
+    </track>
+    <track>
+      <title>Obscura Somnia</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>6</trackNum>
+      <duration>244000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590699</meta>
+    </track>
+    <track>
+      <title>Helios Erebus</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>5</trackNum>
+      <duration>511000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590698</meta>
+    </track>
+    <track>
+      <title>Pig Powder</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>2</trackNum>
+      <duration>340000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590693</meta>
+    </track>
+    <track>
+      <title>Sea of Trees</title>
+      <creator>God is an Astronaut</creator>
+      <album>Helios / Erebus</album>
+      <trackNum>8</trackNum>
+      <duration>289000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACE1590704</meta>
+    </track>
+    <track>
+      <title>On Your Own Ten Toes</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>8</trackNum>
+      <duration>441000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400108</meta>
+    </track>
+    <track>
+      <title>Beautiful You Me</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>9</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400111</meta>
+    </track>
+    <track>
+      <title>Attica</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>5</trackNum>
+      <duration>400000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400105</meta>
+    </track>
+    <track>
+      <title>Vertical</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>1</trackNum>
+      <duration>354000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400101</meta>
+    </track>
+    <track>
+      <title>Elliptic</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>2</trackNum>
+      <duration>528000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400102</meta>
+    </track>
+    <track>
+      <title>As You Are</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>4</trackNum>
+      <duration>252000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400104</meta>
+    </track>
+    <track>
+      <title>Echo In</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>3</trackNum>
+      <duration>201000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400103</meta>
+    </track>
+    <track>
+      <title>Glass Lake</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>7</trackNum>
+      <duration>381000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400107</meta>
+    </track>
+    <track>
+      <title>On Monos</title>
+      <creator>Vessels</creator>
+      <album>Dilate</album>
+      <trackNum>6</trackNum>
+      <duration>405000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCKB1400106</meta>
+    </track>
+  </trackList>
+</playlist>

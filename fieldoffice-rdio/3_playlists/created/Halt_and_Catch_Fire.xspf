@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Halt and Catch Fire</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p12653346</meta>
+  <meta rel="https://rdio.com/xspf/name">Halt and Catch Fire</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/12653346/Halt_and_Catch_Fire/</meta>
+  <trackList>
+    <track>
+      <title>Cold Planet</title>
+      <creator>Wellenfeld</creator>
+      <album>Phase 5</album>
+      <trackNum>3</trackNum>
+      <duration>506000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEHG41002103</meta>
+    </track>
+    <track>
+      <title>Still On Fire</title>
+      <creator>Trentemøller</creator>
+      <album>Lost</album>
+      <trackNum>3</trackNum>
+      <duration>327000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DEL021370053</meta>
+    </track>
+    <track>
+      <title>Energy Fools The Magician (2004 Digital Remaster)</title>
+      <creator>Brian Eno</creator>
+      <album>Before And After Science</album>
+      <trackNum>4</trackNum>
+      <duration>125000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0400091</meta>
+    </track>
+    <track>
+      <title>Cirrus</title>
+      <creator>Bonobo</creator>
+      <album>Cirrus</album>
+      <trackNum>1</trackNum>
+      <duration>352000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1300100</meta>
+    </track>
+    <track>
+      <title>Kometenmelodie 1 (2009 Remastered Version)</title>
+      <creator>Kraftwerk</creator>
+      <album>Autobahn (2009 Remastered Version)</album>
+      <trackNum>2</trackNum>
+      <duration>401000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB01A0900375</meta>
+    </track>
+    <track>
+      <title>Halt and Catch Fire (Main Theme from Tv Series)</title>
+      <creator>The Original Television Orchestra</creator>
+      <album>Halt and Catch Fire (Theme from Television Series) - Single</album>
+      <trackNum>1</trackNum>
+      <duration>31000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ES7931400117</meta>
+    </track>
+  </trackList>
+</playlist>

@@ -1,0 +1,132 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Guilty Aural Pleasures</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p904150</meta>
+  <meta rel="https://rdio.com/xspf/name">Guilty Aural Pleasures</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/904150/Guilty_Aural_Pleasures/</meta>
+  <trackList>
+    <track>
+      <title>In The Land Of Grey &amp; Pink</title>
+      <creator>Caravan</creator>
+      <album>In The Land Of Grey And Pink</album>
+      <trackNum>4</trackNum>
+      <duration>300000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBF077120210</meta>
+    </track>
+    <track>
+      <title>Roundabout (Remastered Version)</title>
+      <creator>Yes</creator>
+      <album>Fragile (Deluxe Version)</album>
+      <trackNum>1</trackNum>
+      <duration>513000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USEE10251885</meta>
+    </track>
+    <track>
+      <title>Marathon</title>
+      <creator>Rush</creator>
+      <album>Power Windows</album>
+      <trackNum>4</trackNum>
+      <duration>369000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMR18530339,CAA310600459</meta>
+    </track>
+    <track>
+      <title>Middletown Dreams</title>
+      <creator>Rush</creator>
+      <album>Power Windows</album>
+      <trackNum>6</trackNum>
+      <duration>315000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAA310600461,USMR18530341</meta>
+    </track>
+    <track>
+      <title>Violet Rays</title>
+      <creator>The Smashing Pumpkins</creator>
+      <album>Oceania</album>
+      <trackNum>4</trackNum>
+      <duration>258000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMQJZ1200004</meta>
+    </track>
+    <track>
+      <title>La belle et le bad boy</title>
+      <creator>MC Solaar</creator>
+      <album>La Belle et le Bad Boy</album>
+      <trackNum>1</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR6V80002267</meta>
+    </track>
+    <track>
+      <title>Central Reservation (The Then Again Version)</title>
+      <creator>Beth Orton</creator>
+      <album>Central Reservation</album>
+      <trackNum>12</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARS9800139</meta>
+    </track>
+    <track>
+      <title>Dear God (2001 - Remaster)</title>
+      <creator>XTC</creator>
+      <album>Skylarking</album>
+      <trackNum>15</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0001211</meta>
+    </track>
+    <track>
+      <title>Fly Away</title>
+      <creator>F.I.R.</creator>
+      <album>F.I.R.</album>
+      <trackNum>2</trackNum>
+      <duration>278000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TWA530401202</meta>
+    </track>
+    <track>
+      <title>Middletown Dreams</title>
+      <creator>Rush</creator>
+      <album>Power Windows</album>
+      <trackNum>6</trackNum>
+      <duration>315000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CAA310600461,USMR18530341</meta>
+    </track>
+    <track>
+      <title>This Is Not America</title>
+      <creator>Pat Metheny Group</creator>
+      <album>Falcon &amp; The Snowman - Soundtrack</album>
+      <trackNum>5</trackNum>
+      <duration>228000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USJT10700026</meta>
+    </track>
+    <track>
+      <title>No More  Hurt</title>
+      <creator>The Durutti Column</creator>
+      <album>Somebody Else's Party</album>
+      <trackNum>9</trackNum>
+      <duration>334000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USPBR0300027</meta>
+    </track>
+    <track>
+      <title>Konstantine</title>
+      <creator>Something Corporate</creator>
+      <album>Played In Space: The Best of Something Corporate</album>
+      <trackNum>15</trackNum>
+      <duration>577000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMC10201183</meta>
+    </track>
+    <track>
+      <title>Ship of Fools (Remastered 2009)</title>
+      <creator>Erasure</creator>
+      <album>The Innocents (21st Anniversary Edition)</album>
+      <trackNum>2</trackNum>
+      <duration>241000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAJH0900812</meta>
+    </track>
+    <track>
+      <title>Every Day (2005 Remaster)</title>
+      <creator>Genesis</creator>
+      <album>R-Kive</album>
+      <trackNum>15</trackNum>
+      <duration>372000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA0500578</meta>
+    </track>
+  </trackList>
+</playlist>

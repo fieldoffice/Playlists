@@ -1,0 +1,140 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>August '13</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p5296001</meta>
+  <meta rel="https://rdio.com/xspf/name">August '13</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/5296001/August_%2713/</meta>
+  <trackList>
+    <track>
+      <title>Moped</title>
+      <creator>Pinkunoizu</creator>
+      <album>The Drop</album>
+      <trackNum>3</trackNum>
+      <duration>328000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBJXP1316802</meta>
+    </track>
+    <track>
+      <title>Two Islands</title>
+      <creator>Outfit</creator>
+      <album>Performance</album>
+      <trackNum>10</trackNum>
+      <duration>378000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSV71300028</meta>
+    </track>
+    <track>
+      <title>Sock Puppets</title>
+      <creator>Portico Quartet</creator>
+      <album>Ep2</album>
+      <trackNum>2</trackNum>
+      <duration>347000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBVEN1100132</meta>
+    </track>
+    <track>
+      <title>Cap Gun</title>
+      <creator>Portico Quartet</creator>
+      <album>EP1</album>
+      <trackNum>3</trackNum>
+      <duration>188000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWXC0900131</meta>
+    </track>
+    <track>
+      <title>Invisible City</title>
+      <creator>Primal Scream</creator>
+      <album>Invisible City</album>
+      <trackNum>1</trackNum>
+      <duration>283000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBGB1300027</meta>
+    </track>
+    <track>
+      <title>Black Acre Feat. Brolin</title>
+      <creator>South London Ordnance</creator>
+      <album>He Do The Police In Different Voices</album>
+      <trackNum>1</trackNum>
+      <duration>279000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">UK3Q30000001</meta>
+    </track>
+    <track>
+      <title>Detroit Part 1</title>
+      <creator>Shigeto</creator>
+      <album>No Better Time Than Now</album>
+      <trackNum>2</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71308402</meta>
+    </track>
+    <track>
+      <title>Fall Back</title>
+      <creator>Zola Jesus</creator>
+      <album>Versions</album>
+      <trackNum>2</trackNum>
+      <duration>267000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US5NR1338802</meta>
+    </track>
+    <track>
+      <title>The Illuminations (12" Version)</title>
+      <creator>Holden</creator>
+      <album>The Illuminations</album>
+      <trackNum>1</trackNum>
+      <duration>332000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUZD1303901</meta>
+    </track>
+    <track>
+      <title>Another</title>
+      <creator>Seekae</creator>
+      <album>Another</album>
+      <trackNum>1</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01300456</meta>
+    </track>
+    <track>
+      <title>Gone</title>
+      <creator>Floex</creator>
+      <album>Gone</album>
+      <trackNum>2</trackNum>
+      <duration>268000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DERK91317402</meta>
+    </track>
+    <track>
+      <title>Cold Win</title>
+      <creator>Ghostpoet</creator>
+      <album>Cold Win</album>
+      <trackNum>1</trackNum>
+      <duration>197000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBENL1300799</meta>
+    </track>
+    <track>
+      <title>No Lungs</title>
+      <creator>Charles Murdoch</creator>
+      <album>Weathered Straight</album>
+      <trackNum>4</trackNum>
+      <duration>215000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01300439</meta>
+    </track>
+    <track>
+      <title>Losing Control</title>
+      <creator>Ghostlight</creator>
+      <album>Whispers and Some Kind of Understanding</album>
+      <trackNum>3</trackNum>
+      <duration>242000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUKP31300114</meta>
+    </track>
+    <track>
+      <title>Comrade</title>
+      <creator>Volcano Choir</creator>
+      <album>Repave</album>
+      <trackNum>3</trackNum>
+      <duration>274000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38Y1323803</meta>
+    </track>
+    <track>
+      <title>Send The Pain On</title>
+      <creator>Chrome Sparks</creator>
+      <album>Sparks EP</album>
+      <trackNum>4</trackNum>
+      <duration>337000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMHHY1300004</meta>
+    </track>
+  </trackList>
+</playlist>

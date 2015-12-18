@@ -1,0 +1,92 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>May '14</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p9264035</meta>
+  <meta rel="https://rdio.com/xspf/name">May '14</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/9264035/May_%2714/</meta>
+  <trackList>
+    <track>
+      <title>Take Me</title>
+      <creator>Sisyphus</creator>
+      <album>Sisyphus</album>
+      <trackNum>2</trackNum>
+      <duration>357000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US64G1411702</meta>
+    </track>
+    <track>
+      <title>Disquiet (Floex Remix)</title>
+      <creator>Hidden Orchestra</creator>
+      <album>Archipelago Remixes, Pt. 2</album>
+      <trackNum>3</trackNum>
+      <duration>339000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEUE1400038</meta>
+    </track>
+    <track>
+      <title>for the transient projectionist</title>
+      <creator>Hiss Tracts</creator>
+      <album>Shortwave Nights</album>
+      <trackNum>7</trackNum>
+      <duration>318000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ21410407</meta>
+    </track>
+    <track>
+      <title>Carmine (Synkro Remix)</title>
+      <creator>Cloud Boat</creator>
+      <album>Carmine</album>
+      <trackNum>2</trackNum>
+      <duration>335000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">BEZ351400068</meta>
+    </track>
+    <track>
+      <title>See</title>
+      <creator>Tycho</creator>
+      <album>See</album>
+      <trackNum>1</trackNum>
+      <duration>318000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71400805</meta>
+    </track>
+    <track>
+      <title>Something Like Avalanches</title>
+      <creator>sleepmakeswaves</creator>
+      <album>Something Like Avalanches</album>
+      <trackNum>1</trackNum>
+      <duration>329000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUAJ11400009</meta>
+    </track>
+    <track>
+      <title>Son O'blood</title>
+      <creator>I Know Leopard</creator>
+      <album>Illumina</album>
+      <trackNum>3</trackNum>
+      <duration>246000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUW131400003</meta>
+    </track>
+    <track>
+      <title>The Dark (Trinity)</title>
+      <creator>The Roots</creator>
+      <album>...and then you shoot your cousin</album>
+      <trackNum>9</trackNum>
+      <duration>317000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71404928</meta>
+    </track>
+    <track>
+      <title>Nolan</title>
+      <creator>Ben Frost</creator>
+      <album>A U R O R A</album>
+      <trackNum>2</trackNum>
+      <duration>417000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ISW211400102</meta>
+    </track>
+    <track>
+      <title>Tell Me</title>
+      <creator>Millionyoung</creator>
+      <album>Tell Me - Single</album>
+      <trackNum>1</trackNum>
+      <duration>264000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMAF1400703</meta>
+    </track>
+  </trackList>
+</playlist>

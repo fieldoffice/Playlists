@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>May ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p13396267</meta>
+  <meta rel="https://rdio.com/xspf/name">May ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/13396267/May_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Recovery</title>
+      <creator>Rival Consoles</creator>
+      <album>Odyssey / Sonne (Bonus Track Version)</album>
+      <trackNum>10</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWZD1405906</meta>
+    </track>
+    <track>
+      <title>Gypsy Candle</title>
+      <creator>Giant Sand</creator>
+      <album>Heartbreak Pass</album>
+      <trackNum>13</trackNum>
+      <duration>269000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US27Q1563194</meta>
+    </track>
+    <track>
+      <title>Just Like Blood</title>
+      <creator>Sharon Van Etten</creator>
+      <album>Just Like Blood</album>
+      <trackNum>1</trackNum>
+      <duration>281000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US38Y1526603</meta>
+    </track>
+    <track>
+      <title>Hummingblurs</title>
+      <creator>Bass Clef</creator>
+      <album>Hummingblurs</album>
+      <trackNum>1</trackNum>
+      <duration>449000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBE7M1500013</meta>
+    </track>
+    <track>
+      <title>Girls</title>
+      <creator>Field Harmonics</creator>
+      <album>Girls</album>
+      <trackNum>1</trackNum>
+      <duration>255000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBKPL1513797</meta>
+    </track>
+    <track>
+      <title>Scud Books</title>
+      <creator>Hudson Mohawke</creator>
+      <album>Scud Books</album>
+      <trackNum>1</trackNum>
+      <duration>0</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500027</meta>
+    </track>
+  </trackList>
+</playlist>

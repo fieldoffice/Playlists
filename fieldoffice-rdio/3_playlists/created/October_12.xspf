@@ -1,0 +1,108 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>October '12</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p1418666</meta>
+  <meta rel="https://rdio.com/xspf/name">October '12</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/1418666/October_%2712/</meta>
+  <trackList>
+    <track>
+      <title>At Home (Pony Pony Run Run Remix)</title>
+      <creator>Crystal Fighters</creator>
+      <album>Star of Love (Remixes)</album>
+      <trackNum>8</trackNum>
+      <duration>252000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBE7C1100006</meta>
+    </track>
+    <track>
+      <title>Check 1,2</title>
+      <creator>Reso</creator>
+      <album>Check 1,2</album>
+      <trackNum>1</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWTT1204412</meta>
+    </track>
+    <track>
+      <title>Further In</title>
+      <creator>Caspian</creator>
+      <album>You Are The Conductor</album>
+      <trackNum>3</trackNum>
+      <duration>170000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USTCB0968222</meta>
+    </track>
+    <track>
+      <title>Howard Hughes, Captain of the Industry</title>
+      <creator>Ghost Hotel</creator>
+      <album>Do You Feel It</album>
+      <trackNum>4</trackNum>
+      <duration>223000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USHM91201554</meta>
+    </track>
+    <track>
+      <title>Incommunicado</title>
+      <creator>Field Report</creator>
+      <album>Field Report</album>
+      <trackNum>5</trackNum>
+      <duration>201000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USBQU1200053</meta>
+    </track>
+    <track>
+      <title>Once There Was a Hushpuppy</title>
+      <creator>Dan Romer</creator>
+      <album>Beasts of the Southern Wild (Music from the Motion Picture)</album>
+      <trackNum>17</trackNum>
+      <duration>392000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA561220721</meta>
+    </track>
+    <track>
+      <title>Seven Hunters</title>
+      <creator>Hidden Orchestra</creator>
+      <album>Archipelago</album>
+      <trackNum>7</trackNum>
+      <duration>576000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEUE1200214</meta>
+    </track>
+    <track>
+      <title>Shadow of the Colossus</title>
+      <creator>Halls</creator>
+      <album>Ark</album>
+      <trackNum>7</trackNum>
+      <duration>243000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWUY1202807</meta>
+    </track>
+    <track>
+      <title>T=0</title>
+      <creator>Tall Ships</creator>
+      <album>Everything Touching</album>
+      <trackNum>1</trackNum>
+      <duration>221000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBYLR1202201</meta>
+    </track>
+    <track>
+      <title>The Descent</title>
+      <creator>Bob Mould</creator>
+      <album>Silver Age</album>
+      <trackNum>3</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG1245003</meta>
+    </track>
+    <track>
+      <title>Timeaway</title>
+      <creator>Darkstar</creator>
+      <album>Timeaway</album>
+      <trackNum>1</trackNum>
+      <duration>202000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1200176</meta>
+    </track>
+    <track>
+      <title>We Drift Like Worried Fire</title>
+      <creator>Godspeed You! Black Emperor</creator>
+      <album>Allelujah! Don't Bend! Ascend!</album>
+      <trackNum>3</trackNum>
+      <duration>1207000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CACQ21208103</meta>
+    </track>
+  </trackList>
+</playlist>

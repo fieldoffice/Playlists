@@ -1,0 +1,44 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>Six String Shooters</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p1359161</meta>
+  <meta rel="https://rdio.com/xspf/name">Six String Shooters</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/1359161/Six_String_Shooters/</meta>
+  <trackList>
+    <track>
+      <title>The Descent</title>
+      <creator>Bob Mould</creator>
+      <album>Silver Age</album>
+      <trackNum>3</trackNum>
+      <duration>234000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USMRG1245003</meta>
+    </track>
+    <track>
+      <title>Knockin On Mine</title>
+      <creator>Paul Westerberg</creator>
+      <album>14 Songs</album>
+      <trackNum>1</trackNum>
+      <duration>224000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USRE10101886</meta>
+    </track>
+    <track>
+      <title>September Gurls</title>
+      <creator>Big Star</creator>
+      <album>Radio City (Remastered)</album>
+      <trackNum>10</trackNum>
+      <duration>166000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USC4R0919673</meta>
+    </track>
+    <track>
+      <title>Nobody Gets It</title>
+      <creator>Papermaps</creator>
+      <album>Inferior Ghost</album>
+      <trackNum>5</trackNum>
+      <duration>250000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">CASP31240205</meta>
+    </track>
+  </trackList>
+</playlist>

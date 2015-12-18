@@ -1,0 +1,100 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>DnB</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p2793053</meta>
+  <meta rel="https://rdio.com/xspf/name">DnB</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/2793053/DnB/</meta>
+  <trackList>
+    <track>
+      <title>Distant Shores</title>
+      <creator>METRIK</creator>
+      <album>Metrik EP</album>
+      <trackNum>4</trackNum>
+      <duration>324000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1300064</meta>
+    </track>
+    <track>
+      <title>Freefall</title>
+      <creator>METRIK</creator>
+      <album>Freefall</album>
+      <trackNum>1</trackNum>
+      <duration>240000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBTMZ1200164</meta>
+    </track>
+    <track>
+      <title>Meteorites</title>
+      <creator>London Elektricity</creator>
+      <album>Meteorites EP</album>
+      <trackNum>2</trackNum>
+      <duration>369000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1100049</meta>
+    </track>
+    <track>
+      <title>Ill Behaviour</title>
+      <creator>Danny Byrd</creator>
+      <album>Ill Behaviour</album>
+      <trackNum>1</trackNum>
+      <duration>343000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1017501</meta>
+    </track>
+    <track>
+      <title>Fade (Wilkinson Remix)</title>
+      <creator>Jakwob feat. Maiday</creator>
+      <album>Fade</album>
+      <trackNum>3</trackNum>
+      <duration>284000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBTB91300012</meta>
+    </track>
+    <track>
+      <title>Blinding (Hybrid Minds Remix)</title>
+      <creator>Jakwob</creator>
+      <album>Blinding</album>
+      <trackNum>4</trackNum>
+      <duration>314000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBTB91200004</meta>
+    </track>
+    <track>
+      <title>Morning Light</title>
+      <creator>Nu:Logic</creator>
+      <album>Morning Light</album>
+      <trackNum>1</trackNum>
+      <duration>399000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1300019</meta>
+    </track>
+    <track>
+      <title>Safe And Sound (Nu:Logic Remix)</title>
+      <creator>Capital Cities</creator>
+      <album>Safe And Sound</album>
+      <trackNum>6</trackNum>
+      <duration>276000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUM71312326</meta>
+    </track>
+    <track>
+      <title>Give It Up</title>
+      <creator>Etherwood</creator>
+      <album>Sick Music 3</album>
+      <trackNum>22</trackNum>
+      <duration>328000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1205305</meta>
+    </track>
+    <track>
+      <title>Unfolding</title>
+      <creator>Etherwood</creator>
+      <album>New Blood 013</album>
+      <trackNum>1</trackNum>
+      <duration>295000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1300042</meta>
+    </track>
+    <track>
+      <title>Control</title>
+      <creator>Matrix &amp; Futurebound</creator>
+      <album>Control</album>
+      <trackNum>1</trackNum>
+      <duration>229000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBSXS1300160</meta>
+    </track>
+  </trackList>
+</playlist>

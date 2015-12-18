@@ -1,0 +1,68 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>June ‘14</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p9762272</meta>
+  <meta rel="https://rdio.com/xspf/name">June ‘14</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/9762272/June_%E2%80%9814/</meta>
+  <trackList>
+    <track>
+      <title>Aldgate Patterns (Marley Carroll Remix)</title>
+      <creator>Little People</creator>
+      <album>We Are but Hunks of Wood Remixes</album>
+      <trackNum>15</trackNum>
+      <duration>341000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCABX1482905</meta>
+    </track>
+    <track>
+      <title>You Will Return</title>
+      <creator>Quantic</creator>
+      <album>You Will Return</album>
+      <trackNum>1</trackNum>
+      <duration>192000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEUE1400055</meta>
+    </track>
+    <track>
+      <title>Awake</title>
+      <creator>Tycho</creator>
+      <album>Awake Remix</album>
+      <trackNum>1</trackNum>
+      <duration>283000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71309901</meta>
+    </track>
+    <track>
+      <title>Free Migration</title>
+      <creator>Luke Abbott</creator>
+      <album>Wysing Forest</album>
+      <trackNum>4</trackNum>
+      <duration>371000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUZD1404504</meta>
+    </track>
+    <track>
+      <title>Forest Fires</title>
+      <creator>Fred V &amp; Grafix</creator>
+      <album>Forest Fires</album>
+      <trackNum>1</trackNum>
+      <duration>206000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1400008</meta>
+    </track>
+    <track>
+      <title>We Disappear (feat. Lulu James)</title>
+      <creator>Jon Hopkins</creator>
+      <album>We Disappear</album>
+      <trackNum>1</trackNum>
+      <duration>256000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCEL1400195</meta>
+    </track>
+    <track>
+      <title>The Touch</title>
+      <creator>Grum</creator>
+      <album>The Touch</album>
+      <trackNum>5</trackNum>
+      <duration>271000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBPQS1400043</meta>
+    </track>
+  </trackList>
+</playlist>

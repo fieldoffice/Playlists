@@ -1,0 +1,68 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>September ‘14</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p11097746</meta>
+  <meta rel="https://rdio.com/xspf/name">September ‘14</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/11097746/September_%E2%80%9814/</meta>
+  <trackList>
+    <track>
+      <title>Lost Orbit</title>
+      <creator>S.P.Y</creator>
+      <album>Back to Basics Chapter Two</album>
+      <trackNum>5</trackNum>
+      <duration>304000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1400109</meta>
+    </track>
+    <track>
+      <title>Unfurla</title>
+      <creator>Clark</creator>
+      <album>Unfurla</album>
+      <trackNum>1</trackNum>
+      <duration>326000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1400213</meta>
+    </track>
+    <track>
+      <title>Recovery</title>
+      <creator>Rival Consoles</creator>
+      <album>Sonne</album>
+      <trackNum>6</trackNum>
+      <duration>288000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWZD1405906</meta>
+    </track>
+    <track>
+      <title>CIRCLONT6A [141.98][syrobonkus mix]</title>
+      <creator>Aphex Twin</creator>
+      <album>Syro</album>
+      <trackNum>6</trackNum>
+      <duration>360000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1400093</meta>
+    </track>
+    <track>
+      <title>Coronus, the Terminator</title>
+      <creator>Flying Lotus</creator>
+      <album>Coronus, the Terminator</album>
+      <trackNum>1</trackNum>
+      <duration>160000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1400161</meta>
+    </track>
+    <track>
+      <title>Dark Progress</title>
+      <creator>North2north</creator>
+      <album>Dark Progress</album>
+      <trackNum>1</trackNum>
+      <duration>203000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">ushm91402187</meta>
+    </track>
+    <track>
+      <title>White Mystery</title>
+      <creator>Minus The Bear</creator>
+      <album>Planet of Ice (Deluxe Edition)</album>
+      <trackNum>4</trackNum>
+      <duration>279000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US33X0706504</meta>
+    </track>
+  </trackList>
+</playlist>

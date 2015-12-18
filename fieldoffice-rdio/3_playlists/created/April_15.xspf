@@ -1,0 +1,68 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>April ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p13164409</meta>
+  <meta rel="https://rdio.com/xspf/name">April ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/13164409/April_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Shining Star</title>
+      <creator>B12</creator>
+      <album>Shining Star</album>
+      <trackNum>2</trackNum>
+      <duration>394000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FR2X41591194</meta>
+    </track>
+    <track>
+      <title>On My Life</title>
+      <creator>Ryan Adams</creator>
+      <album>Blue Light (Paxam Singles Series, Vol. 6)</album>
+      <trackNum>2</trackNum>
+      <duration>177000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USUG11401912</meta>
+    </track>
+    <track>
+      <title>Arterial (Telefon Tel Aviv Remix)</title>
+      <creator>Lusine</creator>
+      <album>Arterial Reworks</album>
+      <trackNum>1</trackNum>
+      <duration>258000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71504101</meta>
+    </track>
+    <track>
+      <title>Arterial (MOORS Remix)</title>
+      <creator>Lusine</creator>
+      <album>Arterial Reworks</album>
+      <trackNum>2</trackNum>
+      <duration>188000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71403601</meta>
+    </track>
+    <track>
+      <title>Oban (Todd Terje Remix)</title>
+      <creator>Jaga Jazzist</creator>
+      <album>Oban (Todd Terje Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>589000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1501306</meta>
+    </track>
+    <track>
+      <title>Like A Drum (prod. Machinedrum)</title>
+      <creator>Roots Manuva</creator>
+      <album>Like A Drum (prod. Machinedrum)</album>
+      <trackNum>1</trackNum>
+      <duration>218000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFB1500202</meta>
+    </track>
+    <track>
+      <title>Looped</title>
+      <creator>Kiasmos</creator>
+      <album>Looped</album>
+      <trackNum>1</trackNum>
+      <duration>377000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBWZD1506601</meta>
+    </track>
+  </trackList>
+</playlist>

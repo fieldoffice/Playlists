@@ -1,0 +1,60 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>July ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p13820847</meta>
+  <meta rel="https://rdio.com/xspf/name">July ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/13820847/July_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Impressions of Football (Plaid Remix)</title>
+      <creator>Origamibiro</creator>
+      <album>Shakkei (Remixed)</album>
+      <trackNum>4</trackNum>
+      <duration>381000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">DERK91418825</meta>
+    </track>
+    <track>
+      <title>Leave A Trace</title>
+      <creator>CHVRCHES</creator>
+      <album>Leave A Trace</album>
+      <trackNum>1</trackNum>
+      <duration>237000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBZN81500001</meta>
+    </track>
+    <track>
+      <title>Glower</title>
+      <creator>Throwing Snow</creator>
+      <album>Glower</album>
+      <trackNum>1</trackNum>
+      <duration>384000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBEXH1500090</meta>
+    </track>
+    <track>
+      <title>Red Orange 2</title>
+      <creator>Venetian Snares</creator>
+      <album>Red Orange 2 - Single</album>
+      <trackNum>1</trackNum>
+      <duration>225000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USA2B1512648</meta>
+    </track>
+    <track>
+      <title>Throne</title>
+      <creator>Bring Me The Horizon</creator>
+      <album>Throne</album>
+      <trackNum>1</trackNum>
+      <duration>190000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBARL1500770</meta>
+    </track>
+    <track>
+      <title>Pink Light</title>
+      <creator>Jamie Lidell</creator>
+      <album>Pink Light</album>
+      <trackNum>1</trackNum>
+      <duration>271000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">TCACH1534459</meta>
+    </track>
+  </trackList>
+</playlist>

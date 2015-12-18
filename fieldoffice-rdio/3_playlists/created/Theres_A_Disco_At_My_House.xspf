@@ -1,0 +1,124 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>There's A Disco At My House</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p1140844</meta>
+  <meta rel="https://rdio.com/xspf/name">There's A Disco At My House</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/1140844/There%27s_A_Disco_At_My_House/</meta>
+  <trackList>
+    <track>
+      <title>A Different Feeling (Ernest St. Laurent Remix)</title>
+      <creator>The Avalanches</creator>
+      <album>Electricity</album>
+      <trackNum>3</trackNum>
+      <duration>367000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBKS0100416</meta>
+    </track>
+    <track>
+      <title>Drop The Pressure (Explicit)</title>
+      <creator>Mylo</creator>
+      <album>Destroy Rock &amp; Roll</album>
+      <trackNum>4</trackNum>
+      <duration>255000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBHFF0400006</meta>
+    </track>
+    <track>
+      <title>Midnight City [Eric Prydz Private Remix] (Eric Prydz Private Remix)</title>
+      <creator>M83</creator>
+      <album>Midnight City [Eric Prydz Private Remix] (Eric Prydz Private Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>361000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB55H1200001</meta>
+    </track>
+    <track>
+      <title>Poor Leno</title>
+      <creator>Röyksopp</creator>
+      <album>Melody AM</album>
+      <trackNum>5</trackNum>
+      <duration>237000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCFC0100043</meta>
+    </track>
+    <track>
+      <title>Ares (Villains Remix)</title>
+      <creator>Bloc Party</creator>
+      <album>Intimacy - Remixed</album>
+      <trackNum>1</trackNum>
+      <duration>331000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBDNH0900051</meta>
+    </track>
+    <track>
+      <title>Buffalo Stance (Kevin Saunderson's Techno Stance Remix I)</title>
+      <creator>Neneh Cherry</creator>
+      <album>Electrospective: The Remix Album</album>
+      <trackNum>7</trackNum>
+      <duration>399000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBAAA8900265</meta>
+    </track>
+    <track>
+      <title>What Else Is There? (Thin White Duke Mix)</title>
+      <creator>Röyksopp</creator>
+      <album>What Else Is There?</album>
+      <trackNum>3</trackNum>
+      <duration>507000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">FRS940500141</meta>
+    </track>
+    <track>
+      <title>Channel 42</title>
+      <creator>deadmau5</creator>
+      <album>&gt; album title goes here &lt;</album>
+      <trackNum>2</trackNum>
+      <duration>291000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBTDG1200491</meta>
+    </track>
+    <track>
+      <title>Tupac Robot Club Rock</title>
+      <creator>Filthy Dukes</creator>
+      <album>Tupac Robot Club Rock</album>
+      <trackNum>1</trackNum>
+      <duration>270000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70812881</meta>
+    </track>
+    <track>
+      <title>At Home (Pony Pony Run Run Remix)</title>
+      <creator>Crystal Fighters</creator>
+      <album>Star of Love (Remixes)</album>
+      <trackNum>8</trackNum>
+      <duration>252000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBE7C1100006</meta>
+    </track>
+    <track>
+      <title>Paris is Burning (Dim's back to '84 remix edit)</title>
+      <creator>Ladyhawke</creator>
+      <album>Paris is Burning (Dim's back to '84 remix edit)</album>
+      <trackNum>1</trackNum>
+      <duration>227000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBUM70817139</meta>
+    </track>
+    <track>
+      <title>Levitate</title>
+      <creator>Hadouken!</creator>
+      <album>Levitate</album>
+      <trackNum>1</trackNum>
+      <duration>285000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GB2ME1200752</meta>
+    </track>
+    <track>
+      <title>Break 'em</title>
+      <creator>Reso</creator>
+      <album>Pulse Code</album>
+      <trackNum>4</trackNum>
+      <duration>271000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBCJY1400024</meta>
+    </track>
+    <track>
+      <title>Pizza Guy</title>
+      <creator>Touch Sensitive</creator>
+      <album>Pizza Guy / Show Me</album>
+      <trackNum>1</trackNum>
+      <duration>349000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUFF01300414</meta>
+    </track>
+  </trackList>
+</playlist>

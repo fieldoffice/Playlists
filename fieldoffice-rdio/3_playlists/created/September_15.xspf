@@ -1,0 +1,84 @@
+<playlist xmlns="http://xspf.org/ns/0/" version="1">
+  <title>September ‘15</title>
+  <creator>fieldoffice</creator>
+  <meta rel="https://rdio.com/xspf/key">p14341436</meta>
+  <meta rel="https://rdio.com/xspf/name">September ‘15</meta>
+  <meta rel="https://rdio.com/xspf/owner">fieldoffice</meta>
+  <meta rel="https://rdio.com/xspf/playlist_directory">3_playlists</meta>
+  <meta rel="https://rdio.com/xspf/playlist_type">created</meta>
+  <meta rel="https://rdio.com/xspf/url">/people/fieldoffice/playlists/14341436/September_%E2%80%9815/</meta>
+  <trackList>
+    <track>
+      <title>Through The Motions</title>
+      <creator>Darkstar</creator>
+      <album>Through The Motions</album>
+      <trackNum>1</trackNum>
+      <duration>280000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500120</meta>
+    </track>
+    <track>
+      <title>Empire Systems</title>
+      <creator>rafael anton irisarri</creator>
+      <album>Empire Systems</album>
+      <trackNum>1</trackNum>
+      <duration>524000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QM6P41517757</meta>
+    </track>
+    <track>
+      <title>Pulse</title>
+      <creator>Shigeto</creator>
+      <album>Pulse</album>
+      <trackNum>1</trackNum>
+      <duration>427000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US2J71505701</meta>
+    </track>
+    <track>
+      <title>FF Bada</title>
+      <creator>Battles</creator>
+      <album>FF Bada</album>
+      <trackNum>1</trackNum>
+      <duration>265000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500092</meta>
+    </track>
+    <track>
+      <title>Here To Mars</title>
+      <creator>Coheed and Cambria</creator>
+      <album>Here To Mars</album>
+      <trackNum>1</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">QMCE31500291</meta>
+    </track>
+    <track>
+      <title>Arcs Of Command</title>
+      <creator>Caspian</creator>
+      <album>Arcs Of Command</album>
+      <trackNum>1</trackNum>
+      <duration>528000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">US72W1511355,FRX991503182</meta>
+    </track>
+    <track>
+      <title>Stoke The Fire</title>
+      <creator>Darkstar</creator>
+      <album>Stoke The Fire</album>
+      <trackNum>1</trackNum>
+      <duration>243000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">GBBPW1500115</meta>
+    </track>
+    <track>
+      <title>Let It Happen (Soulwax Remix)</title>
+      <creator>Tame Impala</creator>
+      <album>Let It Happen (Soulwax Remix)</album>
+      <trackNum>1</trackNum>
+      <duration>557000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">AUUM71501365</meta>
+    </track>
+    <track>
+      <title>It's That Talk Again</title>
+      <creator>Broken Bells</creator>
+      <album>It's That Talk Again</album>
+      <trackNum>1</trackNum>
+      <duration>241000000</duration>
+      <meta rel="https://rdio.com/xspf/t/isrcs">USSM11507651</meta>
+    </track>
+  </trackList>
+</playlist>
